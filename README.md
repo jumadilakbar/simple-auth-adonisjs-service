@@ -41,3 +41,5 @@ sudo pm2 start /directory/path/project
 ```
 >Tips PM2 
 >pm2 startup and pm2 save for auto restart this service or save yur service in pm2 directory if your server reboot or down.
+###### Contact
+>email : muhamadjumadilakbar@gmail.com
